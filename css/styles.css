@@ -55,7 +55,7 @@ html {
 }
 
 #project {
-  border: 2px solid #343a40;
+  border: 2px dotted #f4623a;
 }
 
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
