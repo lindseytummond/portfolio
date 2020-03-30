@@ -5,9 +5,9 @@
 GitHub portfolio of independent and group projects showcasing Full Stack Web Development skills learned in the University of Arizona Coding Boot Camp.
 
 
-### Link to Train Scheduler: https://lindseytummond.github.io/portfolio/
+### Link to Portfolio: https://lindseytummond.github.io/portfolio/
 
-### Respurces: 
+### Resources: 
   
     * HTML
     * CSS
